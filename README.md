@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Worked as a CAE analyst, interested in automating the regular activity.
+Worked as a developer, interested in automating the regular activity.
 
 <!--
 **IndraPhani/IndraPhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
