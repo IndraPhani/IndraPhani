@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Worked as a developer, interested in automating the regular activity.
+As a developer, I worked and am interested in automating regular activities
+Currently working on Gmail api automation to send the emails, using python
 
 <!--
 **IndraPhani/IndraPhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
